@@ -2,7 +2,7 @@
 name = "fedi-post"
 description = "A library to create posts on different fediverse services."
 authors = ["Sebastian Schmidt <isibboi@gmail.com>"]
-version = "0.1.0"
+version = "0.0.0"
 edition = "2024"
 license = "AGPL-3.0"
 
