@@ -1,6 +1,6 @@
 [package]
 name = "fedi-post"
-description = "A Rust library for posting to various Fediverse platforms."
+description = "A library to create posts on different fediverse services."
 authors = ["Sebastian Schmidt <isibboi@gmail.com>"]
 version = "0.1.0"
 edition = "2024"
