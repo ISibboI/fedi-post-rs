@@ -1,0 +1,9 @@
+[package]
+name = "fedi-post"
+description = "A Rust library for posting to various Fediverse platforms."
+authors = ["Sebastian Schmidt <isibboi@gmail.com>"]
+version = "0.1.0"
+edition = "2024"
+license = "AGPL-3.0"
+
+[dependencies]
